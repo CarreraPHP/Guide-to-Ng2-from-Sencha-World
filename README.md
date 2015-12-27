@@ -1,7 +1,7 @@
 # Guide-to-Ng2-from-Sencha-World
 This is a mini-book(some essential content) for the javascript developers who believe's what Sencha provides is all that available in Javascript.
 
-So, what are the things that you will find here- Well to explain it, let me put some names below and let me know if it rings some bell to you.
+So, what are the things that you will find here. Well to explain it, let me put some names below and let me know if it rings some bells to you.
 
 - TypeScript
 - NativeScript
@@ -13,9 +13,11 @@ So, what are the things that you will find here- Well to explain it, let me put 
 - Webpack
 - System JS
 - Visual Studio Code
-- SASS
+- SASS *
 - LESS
 - Post CSS
+- Compass *
+- Fashion
 - Babel JS
 - Common JS
 - AMD
@@ -29,6 +31,8 @@ So, what are the things that you will find here- Well to explain it, let me put 
 - Angular2
 - Angular Material
 - Bootstrap CSS
-- Sencha Cmd
-- Ext JS
-- Sencha Touch
+- Sencha Cmd *
+- Ext JS *
+- Sencha Touch *
+
+Now tell me whether u are able to recongise the words
