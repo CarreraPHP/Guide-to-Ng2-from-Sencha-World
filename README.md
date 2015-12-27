@@ -46,7 +46,7 @@ If you are familiar with Ext JS and not Sencha Touch or other way around. No Pro
 The Ext Class system basis is all that you need to know and rest of the things are nothing in common with any other framework outside Sencha.
 However, we may use them to better explain/understand the concepts.
 
-Dont ask me **_'Wat is SASS? or How do i theme Sencha Application?'_**, if you are not aware of _SASS_, _Compass_ or _Theming_ then it means that you have still along way to go in mastering Sencha Application.
+Dont ask me **_'Wat is SASS? or How do i theme Sencha Application?'_**, if you are not aware of _SASS_, _Compass_ or _Theming_ then it means that you have still along way to go in mastering Sencha Application Development.
 But don't worry about it, SASSS is just an additional tool that we can use for our comfort and Angular2 doesnt have any dependencies over it.  
 
 Lets start learning by learning how i am going to present the contents because i have no idea how to write a book, all that i ever done was to take training and i am going to follow the same patten here. So, start with "Chapter1 - Introduction" 
